@@ -1,10 +1,12 @@
 # Student-Financial-Tracker
-•	Developed a financial planning tool for university students on Excel to streamline and automate personal financial management and track student debt, income, expenses, saving and investment goals. 
+Created an innovative financial planning tool in Excel tailored for university students, enabling streamlined and automated personal financial management while tracking debt, income, expenses, and savings and investment goals. 
 
-•	Utilized Visual Basic for Applications (VBA) programming to develop complex macros which resulted in improved tool efficiency by automating repetitive tasks such as income and expense calculations. 
+Achieved this by: 
 
-•	Designed multi - sheet workbooks which take user input through forms and pop-ups for data collection and analysis
+•	Utilizing VBA programming to develop complex macros which resulted in improved tool efficiency by automating repetitive tasks such as income and expense calculations. 
 
-•	Conducted a sensitivity analysis to test the final product and assist in making informed decisions on uncertainties in financial scenarios
+•	Designing multi - sheet workbooks which take user input through forms and pop-ups for data collection and analysis
+
+•	Conducting a sensitivity analysis to test the final product and assist in making informed decisions on uncertainties in financial scenarios
 
 Download the file and enable macros to see it in progress!
